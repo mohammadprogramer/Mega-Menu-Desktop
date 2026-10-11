@@ -1,0 +1,617 @@
+# Persian translations for Ramka Elementor Product Mega Menu package.
+# Copyright (C) 2026 THE Ramka Elementor Product Mega Menu'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Ramka Elementor Product Mega Menu package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ramka Elementor Product Mega Menu 1.0.21\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-27 11:29+0200\n"
+"PO-Revision-Date: 2026-09-27 11:02+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language: fa_IR\n"
+"Language-Team: none\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:51
+msgid "Accent color"
+msgstr "رنگ تأکیدی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Accordion below button"
+msgstr "آکاردئون زیر دکمه"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:94
+msgid "Active background"
+msgstr "پس‌زمینه دسته فعال"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:94
+msgid "Active text"
+msgstr "متن دسته فعال"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:27
+msgid "All roots"
+msgstr "همه دسته‌های اصلی"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid ""
+"Also verify that Elementor Safe Mode is disabled and that the Ramka widget is allowed for your role in Elementor "
+"Element Manager."
+msgstr "همچنین بررسی کنید Safe Mode المنتور غیرفعال باشد و ویجت Ramka در Element Manager برای نقش کاربری شما مجاز باشد."
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:51
+msgid "Animation"
+msgstr "انیمیشن"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:52
+msgid "Animation duration (ms)"
+msgstr "مدت انیمیشن (میلی‌ثانیه)"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:32
+msgid "Ascending"
+msgstr "صعودی"
+
+msgid "Audio / headphones"
+msgstr "صوتی / هدفون"
+
+msgid "Automatic (recommended)"
+msgstr "خودکار (پیشنهادی)"
+
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:80
+msgid "Back"
+msgstr "بازگشت"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:110
+msgid "Backdrop and animation"
+msgstr "لایه پشت و انیمیشن"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:111
+msgid "Backdrop color"
+msgstr "رنگ لایه پشت"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:67
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:92
+msgid "Background"
+msgstr "پس‌زمینه"
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:50
+msgid "Banner URL"
+msgstr "لینک بنر"
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:49
+msgid "Banner image"
+msgstr "تصویر بنر"
+
+msgid "Bathroom"
+msgstr "حمام / سرویس"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Bottom sheet"
+msgstr "پنل پایین"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:64
+msgid "Button"
+msgstr "دکمه"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:24
+msgid "Button icon"
+msgstr "آیکون دکمه"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:23
+msgid "Button label"
+msgstr "عنوان دکمه"
+
+msgid "Camera"
+msgstr "دوربین"
+
+msgid "Category icon in mega menu"
+msgstr "آیکون دسته در مگا منو"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:106
+msgid "Category image size"
+msgstr "اندازه تصویر دسته"
+
+msgid ""
+"Choose a unique icon for this product category. If a custom category logo/image is selected below, that image has "
+"priority in the mega menu."
+msgstr ""
+"برای این دسته محصول یک آیکون منحصربه‌فرد انتخاب کنید. اگر در بخش پایین لوگو یا تصویر اختصاصی انتخاب شود، همان تصویر "
+"در مگا منو اولویت دارد."
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:65
+msgid "Choose image"
+msgstr "انتخاب تصویر"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:26
+msgid "Click"
+msgstr "کلیک"
+
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:80
+msgid "Close menu"
+msgstr "بستن منو"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:104
+msgid "Column gap"
+msgstr "فاصله ستون‌ها"
+
+msgid "Cooling / air conditioner"
+msgstr "سرمایش / تهویه"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:44
+msgid "Custom"
+msgstr "سفارشی"
+
+msgid "Custom category logo / image"
+msgstr "لوگو / تصویر اختصاصی دسته"
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:52
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "Custom order"
+msgstr "ترتیب سفارشی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:45
+msgid "Custom width"
+msgstr "عرض سفارشی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:32
+msgid "Descending"
+msgstr "نزولی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:26
+msgid "Desktop opening"
+msgstr "روش باز شدن در دسکتاپ"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:44
+msgid "Desktop width"
+msgstr "عرض دسکتاپ"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:32
+msgid "Direction"
+msgstr "جهت ترتیب"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:107
+msgid "Divider color"
+msgstr "رنگ جداکننده"
+
+msgid "ELEMENTOR_VERSION defined"
+msgstr "تعریف بودن ELEMENTOR_VERSION"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Elementor Safe Mode option"
+msgstr "وضعیت Safe Mode المنتور"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:44
+msgid "Elementor container"
+msgstr "کانتینر المنتور"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Elementor design permission for current user"
+msgstr "مجوز طراحی Elementor برای کاربر فعلی"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Elementor widget enable filter"
+msgstr "فیلتر فعال بودن ویجت Elementor"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:29
+msgid "Exclude categories"
+msgstr "حذف دسته‌ها"
+
+msgid ""
+"Expected result with Elementor and WooCommerce active: Elementor/WooCommerce checks are yes, the widget registration "
+"action count is at least 1, and the Ramka widget is registered."
+msgstr ""
+"در حالت مورد انتظار با Elementor و WooCommerce فعال، بررسی‌های Elementor/WooCommerce باید yes باشند، تعداد اجرای "
+"رویداد ثبت ویجت حداقل ۱ باشد و ویجت رامکا نیز ثبت شده باشد."
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:51
+msgid "Fade"
+msgstr "محو شدن"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:25
+msgid "Fallback category icon (Dashicons class)"
+msgstr "آیکون پیش‌فرض دسته (کلاس Dashicons)"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:35
+msgid "First category"
+msgstr "اولین دسته"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid ""
+"For Elementor 4.x the expected widget config is: categories include ramka-elements and general, show_in_panel is yes,"
+" hide_on_search is no, and the controls stack is readable."
+msgstr ""
+"در Elementor 4.x حالت مورد انتظار این است که دسته‌ها شامل ramka-elements و general باشند، show_in_panel برابر yes، "
+"hide_on_search برابر no و controls stack قابل خواندن باشد."
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Full screen"
+msgstr "تمام‌صفحه"
+
+msgid "Gaming"
+msgstr "گیمینگ"
+
+msgid "General category"
+msgstr "دسته عمومی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:78
+msgid "Height"
+msgstr "ارتفاع"
+
+msgid "Home"
+msgstr "خانه"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:26
+msgid "Hover"
+msgstr "قرار گرفتن نشانگر"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:69
+msgid "Hover background"
+msgstr "پس‌زمینه هنگام اشاره"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:68
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:94
+msgid "Hover text"
+msgstr "رنگ متن هنگام اشاره"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "ID"
+msgstr "شناسه"
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:47
+msgid "Icon class (Dashicons)"
+msgstr "کلاس آیکون (Dashicons)"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:70
+msgid "Icon color"
+msgstr "رنگ آیکون"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:72
+msgid "Icon gap"
+msgstr "فاصله آیکون"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:71
+msgid "Icon size"
+msgstr "اندازه آیکون"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:28
+msgid "Include categories"
+msgstr "دسته‌های انتخابی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:35
+msgid "Initially active category"
+msgstr "دسته فعال اولیه"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:40
+msgid "Keep open in Elementor editor"
+msgstr "باز نگه داشتن در ویرایشگر المنتور"
+
+msgid "Kitchen"
+msgstr "آشپزخانه"
+
+msgid "Laptop / computer"
+msgstr "لپ‌تاپ / کامپیوتر"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:43
+msgid "Layout and responsive"
+msgstr "چیدمان و واکنش‌گرایی"
+
+msgid "Lighting"
+msgstr "روشنایی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:102
+msgid "Link color"
+msgstr "رنگ پیوند"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:103
+msgid "Link hover"
+msgstr "رنگ پیوند هنگام اشاره"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:27
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:90
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:85
+msgid "Main categories"
+msgstr "دسته‌بندی‌های اصلی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:81
+msgid "Main panel"
+msgstr "پنل اصلی"
+
+msgid "Marketplace mega menu"
+msgstr "مگا منوی فروشگاهی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:33
+msgid "Maximum depth"
+msgstr "حداکثر عمق"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:46
+msgid "Maximum menu height (px)"
+msgstr "حداکثر ارتفاع منو (پیکسل)"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:34
+msgid "Maximum roots (0 = all)"
+msgstr "حداکثر دسته‌های اصلی (۰ = همه)"
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:48
+msgid "Mega menu image"
+msgstr "تصویر مگا منو"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:22
+msgid "Menu content"
+msgstr "محتوای منو"
+
+msgid "Minimal"
+msgstr "مینیمال"
+
+msgid "Mobile / phone"
+msgstr "موبایل / تلفن"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Mobile layout"
+msgstr "چیدمان موبایل"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:47
+msgid "Mobile menu breakpoint (px)"
+msgstr "آستانه منوی موبایل (پیکسل)"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "Name"
+msgstr "نام"
+
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:82
+msgid "No product categories to display."
+msgstr "دسته‌بندی محصولی برای نمایش وجود ندارد."
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:51
+msgid "None"
+msgstr "بدون انیمیشن"
+
+msgid "Open Ramka diagnostics"
+msgstr "باز کردن عیب‌یابی رامکا"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:39
+msgid "Open links in a new tab"
+msgstr "باز شدن لینک‌ها در زبانه جدید"
+
+msgid "PHP version"
+msgstr "نسخه PHP"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:73
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:83
+msgid "Padding"
+msgstr "فاصله داخلی"
+
+msgid "Plugin version"
+msgstr "نسخه افزونه"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:23
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:79
+msgid "Product categories"
+msgstr "دسته‌بندی کالاها"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "Product count"
+msgstr "تعداد محصولات"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:75
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:85
+msgid "Radius"
+msgstr "گردی گوشه"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php:71
+msgid "Ramka"
+msgstr "رامکا"
+
+msgid "Ramka Mega Diagnostics"
+msgstr "عیب‌یابی مگا منوی رامکا"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php:50
+#, php-format, python-format
+msgid "Ramka Mega Menu could not detect these active dependencies: %s."
+msgstr "مگا منوی رامکا نتوانست این وابستگی‌های فعال را شناسایی کند: %s."
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:8
+msgid "Ramka Product Mega Menu"
+msgstr "مگا منوی محصولات رامکا"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka category callback seen"
+msgstr "اجرای callback دسته Ramka"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka category exists in Elementor"
+msgstr "وجود دسته Ramka در Elementor"
+
+msgid "Ramka widget callback seen"
+msgstr "اجرای callback ویجت رامکا"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka widget class"
+msgstr "کلاس ویجت رامکا"
+
+msgid "Ramka widget registered in Widget Manager"
+msgstr "ثبت ویجت رامکا در Widget Manager"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka widget title"
+msgstr "عنوان ویجت رامکا"
+
+msgid "Recommended for store headers. Expands the menu beyond a narrow header container and centers it inside the viewport."
+msgstr ""
+"برای هدر فروشگاهی پیشنهاد می‌شود. منو را از محدودیت عرض کانتینر هدر خارج کرده و در صفحه به‌صورت عریض و مرکزی نمایش "
+"می‌دهد."
+
+msgid "Recommended: a square PNG, WebP or SVG-style logo. This image has first priority for this category in the mega menu."
+msgstr "پیشنهاد: یک لوگوی مربعی PNG یا WebP انتخاب کنید. این تصویر برای این دسته در مگا منو اولویت اول را دارد."
+
+msgid "Refrigerator"
+msgstr "یخچال"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Right drawer"
+msgstr "کشویی از راست"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:105
+msgid "Row gap"
+msgstr "فاصله ردیف‌ها"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:27
+msgid "Selected roots"
+msgstr "دسته‌های انتخابی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show backdrop"
+msgstr "نمایش لایه پشت منو"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show category banner"
+msgstr "نمایش بنر دسته"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show category image"
+msgstr "نمایش تصویر دسته"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:30
+msgid "Show empty categories"
+msgstr "نمایش دسته‌های خالی"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show product count"
+msgstr "نمایش تعداد محصولات"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show view all link"
+msgstr "نمایش پیوند مشاهده همه"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:91
+msgid "Sidebar width"
+msgstr "عرض ستون کناری"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:51
+msgid "Slide"
+msgstr "لغزیدن"
+
+msgid "Soft cards"
+msgstr "کارت‌های نرم"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "Sort by"
+msgstr "مرتب‌سازی بر اساس"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:99
+msgid "Subcategories"
+msgstr "زیردسته‌ها"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:50
+msgid "Subcategory columns"
+msgstr "ستون‌های زیردسته"
+
+msgid "TV / display"
+msgstr "تلویزیون / نمایشگر"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:48
+msgid "Tablet columns breakpoint (px)"
+msgstr "آستانه ستون‌های تبلت (پیکسل)"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:94
+msgid "Text"
+msgstr "متن"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:66
+msgid "Text color"
+msgstr "رنگ متن"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid ""
+"This page is visible only to administrators who can activate plugins. It is read-only and can be removed after "
+"troubleshooting."
+msgstr ""
+"این صفحه فقط برای مدیرانی که اجازه فعال‌سازی افزونه‌ها را دارند نمایش داده می‌شود، فقط خواندنی است و پس از عیب‌یابی "
+"می‌توان آن را حذف کرد."
+
+msgid "Tools"
+msgstr "ابزار"
+
+msgid "Vacuum / cleaning"
+msgstr "جارو / نظافت"
+
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:51
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:94
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:103
+msgid "View all products"
+msgstr "مشاهده همه محصولات"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:44
+msgid "Viewport"
+msgstr "تمام عرض صفحه"
+
+msgid "WC_VERSION defined"
+msgstr "تعریف بودن WC_VERSION"
+
+msgid "Washing machine"
+msgstr "ماشین لباسشویی"
+
+msgid "Watch"
+msgstr "ساعت"
+
+msgid "Wide desktop mega menu"
+msgstr "مگا منوی عریض در دسکتاپ"
+
+msgid "Wide menu width"
+msgstr "عرض مگا منوی عریض"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config categories"
+msgstr "دسته‌های تنظیمات ویجت"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config error"
+msgstr "خطای تنظیمات ویجت"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config hide_on_search"
+msgstr "مقدار hide_on_search ویجت"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config readable"
+msgstr "قابل خواندن بودن تنظیمات ویجت"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config show_in_panel"
+msgstr "مقدار show_in_panel ویجت"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget controls stack readable"
+msgstr "قابل خواندن بودن controls stack ویجت"
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:77
+msgid "Width"
+msgstr "عرض"
+
+msgid "WooCommerce class exists"
+msgstr "وجود کلاس WooCommerce"
+
+msgid "You are not allowed to view these diagnostics."
+msgstr "شما اجازه مشاهده این اطلاعات عیب‌یابی را ندارید."
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:87
+msgid "Z-index"
+msgstr "اولویت نمایش"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "elementor/elements/categories_registered action count"
+msgstr "تعداد اجرای رویداد elementor/elements/categories_registered"
+
+msgid "elementor/loaded action count"
+msgstr "تعداد اجرای رویداد elementor/loaded"
+
+msgid "elementor/widgets/register action count"
+msgstr "تعداد اجرای رویداد elementor/widgets/register"
+
+#~ msgid "Ramka Mega Menu requires active WooCommerce and Elementor."
+#~ msgstr "مگا منوی رامکا به ووکامرس و المنتور فعال نیاز دارد."
+

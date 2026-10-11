@@ -1,0 +1,521 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Ramka Elementor Product Mega Menu package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ramka Elementor Product Mega Menu 1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-27 11:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php:50
+#, php-format
+msgid "Ramka Mega Menu could not detect these active dependencies: %s."
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php:71
+msgid "Ramka"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:47
+msgid "Icon class (Dashicons)"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:48
+msgid "Mega menu image"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:49
+msgid "Banner image"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:50
+msgid "Banner URL"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:51
+msgid "Accent color"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:52
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "Custom order"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-term-fields.php:65
+msgid "Choose image"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:8
+msgid "Ramka Product Mega Menu"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:22
+msgid "Menu content"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:23
+msgid "Button label"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:23
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:79
+msgid "Product categories"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:24
+msgid "Button icon"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:25
+msgid "Fallback category icon (Dashicons class)"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:26
+msgid "Desktop opening"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:26
+msgid "Click"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:26
+msgid "Hover"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:27
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:90
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:85
+msgid "Main categories"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:27
+msgid "All roots"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:27
+msgid "Selected roots"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:28
+msgid "Include categories"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:29
+msgid "Exclude categories"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:30
+msgid "Show empty categories"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "Sort by"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "Name"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "ID"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:31
+msgid "Product count"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:32
+msgid "Direction"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:32
+msgid "Ascending"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:32
+msgid "Descending"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:33
+msgid "Maximum depth"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:34
+msgid "Maximum roots (0 = all)"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:35
+msgid "Initially active category"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:35
+msgid "First category"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show product count"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show category image"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show view all link"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show backdrop"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:36
+msgid "Show category banner"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:39
+msgid "Open links in a new tab"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:40
+msgid "Keep open in Elementor editor"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:43
+msgid "Layout and responsive"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:44
+msgid "Desktop width"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:44
+msgid "Viewport"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:44
+msgid "Elementor container"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:44
+msgid "Custom"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:45
+msgid "Custom width"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:46
+msgid "Maximum menu height (px)"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:47
+msgid "Mobile menu breakpoint (px)"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:48
+msgid "Tablet columns breakpoint (px)"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Mobile layout"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Right drawer"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Full screen"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Accordion below button"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:49
+msgid "Bottom sheet"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:50
+msgid "Subcategory columns"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:51
+msgid "Animation"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:51
+msgid "Fade"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:51
+msgid "Slide"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:51
+msgid "None"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:52
+msgid "Animation duration (ms)"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:64
+msgid "Button"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:66
+msgid "Text color"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:67
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:92
+msgid "Background"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:68
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:94
+msgid "Hover text"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:69
+msgid "Hover background"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:70
+msgid "Icon color"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:71
+msgid "Icon size"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:72
+msgid "Icon gap"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:73
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:83
+msgid "Padding"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:75
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:85
+msgid "Radius"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:77
+msgid "Width"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:78
+msgid "Height"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:81
+msgid "Main panel"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:87
+msgid "Z-index"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:91
+msgid "Sidebar width"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:94
+msgid "Text"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:94
+msgid "Active text"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:94
+msgid "Active background"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:99
+msgid "Subcategories"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:102
+msgid "Link color"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:103
+msgid "Link hover"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:104
+msgid "Column gap"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:105
+msgid "Row gap"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:106
+msgid "Category image size"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:107
+msgid "Divider color"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:110
+msgid "Backdrop and animation"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-widget.php:111
+msgid "Backdrop color"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:51
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:94
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:103
+msgid "View all products"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:80
+msgid "Back"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:80
+msgid "Close menu"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/templates/mega-menu.php:82
+msgid "No product categories to display."
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Open Ramka diagnostics"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka Mega Diagnostics"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "You are not allowed to view these diagnostics."
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Plugin version"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "PHP version"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "ELEMENTOR_VERSION defined"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "elementor/loaded action count"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "WC_VERSION defined"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "WooCommerce class exists"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "elementor/widgets/register action count"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka widget callback seen"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka widget registered in Widget Manager"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "This page is visible only to administrators who can activate plugins. It is read-only and can be removed after troubleshooting."
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Expected result with Elementor and WooCommerce active: Elementor/WooCommerce checks are yes, the widget registration action count is at least 1, and the Ramka widget is registered."
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka widget class"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka widget title"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Elementor widget enable filter"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "elementor/elements/categories_registered action count"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka category callback seen"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Ramka category exists in Elementor"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Elementor design permission for current user"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Elementor Safe Mode option"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config readable"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config categories"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config show_in_panel"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config hide_on_search"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget controls stack readable"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Widget config error"
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "For Elementor 4.x the expected widget config is: categories include ramka-elements and general, show_in_panel is yes, hide_on_search is no, and the controls stack is readable."
+msgstr ""
+
+#: ramka-elementor-product-mega-menu/includes/class-bootstrap.php
+msgid "Also verify that Elementor Safe Mode is disabled and that the Ramka widget is allowed for your role in Elementor Element Manager."
+msgstr ""

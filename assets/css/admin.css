@@ -1,0 +1,73 @@
+.taxonomy-product_cat .ramka-mega-icon-picker {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(112px, 1fr));
+	gap: 10px;
+	max-width: 900px;
+	margin: 8px 0 10px;
+}
+.taxonomy-product_cat .ramka-mega-icon-choice { position: relative; display: block; }
+.taxonomy-product_cat .ramka-mega-icon-choice > input {
+	position: absolute;
+	opacity: 0;
+	pointer-events: none;
+}
+.taxonomy-product_cat .ramka-mega-icon-option {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	gap: 7px;
+	min-height: 92px;
+	padding: 10px 8px;
+	border: 1px solid #dcdcde;
+	border-radius: 10px;
+	background: #fff;
+	cursor: pointer;
+	transition: border-color .15s ease, box-shadow .15s ease, background-color .15s ease;
+}
+.taxonomy-product_cat .ramka-mega-icon-option:hover { border-color: #47578A; }
+.taxonomy-product_cat .ramka-mega-icon-choice > input:checked + .ramka-mega-icon-option {
+	border-color: #47578A;
+	background: rgba(71,87,138,.06);
+	box-shadow: 0 0 0 2px rgba(71,87,138,.12);
+}
+.taxonomy-product_cat .ramka-mega-icon-option__svg {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 38px;
+	height: 38px;
+	color: #47578A;
+}
+.taxonomy-product_cat .ramka-mega-admin-svg { width: 30px; height: 30px; display: block; }
+.taxonomy-product_cat .ramka-mega-icon-option__label {
+	font-size: 12px;
+	line-height: 1.45;
+	text-align: center;
+	color: #2c3338;
+}
+.taxonomy-product_cat .ramka-mega-media-preview {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100px;
+	height: 100px;
+	margin: 8px 0 10px;
+	border: 1px dashed #c3c4c7;
+	border-radius: 12px;
+	background: #fff;
+	overflow: hidden;
+}
+.taxonomy-product_cat .ramka-mega-media-preview:empty::before {
+	content: "—";
+	color: #a7aaad;
+	font-size: 20px;
+}
+.taxonomy-product_cat .ramka-mega-media-preview img {
+	display: block;
+	width: 88px;
+	height: 88px;
+	object-fit: contain;
+	border-radius: 9px;
+}
+.taxonomy-product_cat .ramka-mega-media-actions { display: flex; gap: 6px; flex-wrap: wrap; }
